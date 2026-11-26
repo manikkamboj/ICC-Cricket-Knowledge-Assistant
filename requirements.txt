@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-classic
+langchain-cohere
+faiss-cpu
+joblib
+fastapi
+uvicorn
+streamlit
